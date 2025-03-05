@@ -38,7 +38,8 @@ export const Navbar = () => {
               Create Community
             </Link>
           </div>
-
+          {/*Login with GitHub*/}
+          <button>Login with GitHub</button>
           {/* Mobile Menu Button */}
           <div className="md:hidden">
             <button
